@@ -3,8 +3,7 @@
   
 - 🎓I am still studying Cyber security ( Redteam ) and programming 
 - :test_tube: Finish research in programming and cybersecurity and prepare for industry transition
-- 💟 We look forward to publishing meaningful educational content
-- :speech_balloon: Ask me about accessibility, programming, cybersecurity, full stack, web, or literally anything and I'll help you out!
+- :speech_balloon: Ask me about : programming, cybersecurity, or literally anything and I'll help you out :)
 - :mailbox: You can reach me with the links below
 
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamzawy0FB)
