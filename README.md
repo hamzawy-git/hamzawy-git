@@ -2,7 +2,6 @@
 <p align="center">
   
 - 🎓I am still studying Cyber security ( Redteam ) and programming 
-- :test_tube: Finish research in programming and cybersecurity and prepare for industry transition
 - :speech_balloon: Ask me about : programming, cybersecurity, or literally anything and I'll help you out :)
 - :mailbox: You can reach me with the links below
 
