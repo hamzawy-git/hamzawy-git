@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Hamza 👋</h1>
+<h1 align="center">Hi, I'm Hamza 👋👨‍💻</h1>
 <p align="center">
   
 - 🎓I am still studying Cyber security ( Redteam ) and programming 
+- 🐍 Pythonic programming
+- 📊 Trader 
 - :speech_balloon: Ask me about : programming, cybersecurity, or literally anything and I'll help you out :)
 - :mailbox: You can reach me with the links below
 
@@ -10,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/hamzawy_tt)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+201019622724)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ayman-9b246622a)
-<img align='right' src='https://user-images.githubusercontent.com/96353413/162086548-2a420a25-071f-42e5-82d6-7d838f17de25.jpg' width='400"'>
+<img align='right' src='https://live.staticflickr.com/65535/51987411848_e34f8a7f32_z.jpg' width='200'>
 
 
 ##### Languages I use
