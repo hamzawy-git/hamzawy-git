@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
-##### Fun fact: I once solved the world's oldest question with a single line of Python
+##### Fun fact: I once solved the world's oldest question with a single line of Javascript
 <!-- wi*quL3fcV -->
 
 ```Javascript
