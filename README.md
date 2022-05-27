@@ -6,10 +6,10 @@
 - :speech_balloon: Ask me about : programming, Webdeveloping, or literally anything and I'll help you out :)
 - :mailbox: You can reach me with the links below
 
-[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamzawy0FB)
+[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamzawyFB)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hamzawy_ig)
 [![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/hamzawy_tt)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)]([https://api.whatsapp.com/send/?phone=+201019622724](https://wa.me/message/O2BGCML7F2GGM1))
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/message/O2BGCML7F2GGM1)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ayman-9b246622a)
 <img align='right' src='https://live.staticflickr.com/65535/51987411848_e34f8a7f32_z.jpg' width='200'>
 
